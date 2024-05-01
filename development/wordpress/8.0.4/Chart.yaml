@@ -38,7 +38,7 @@ maintainers:
 name: wordpress
 sources:
   - https://www.wordpress.org
-  - https://github.com/jrobe/charts/tree/master/charts/development/wordpress
+  - https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
   - https://hub.docker.com/r/bitnami/wordpress
 type: application
 version: 8.0.4

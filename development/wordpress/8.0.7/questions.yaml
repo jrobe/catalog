@@ -564,7 +564,7 @@ questions:
             type: dict
             attrs:
               - variable: enabled
-                label: Enable SMTP
+                label: Specify your own Salts to use?
                 schema:
                   type: boolean
                   default: false
@@ -673,7 +673,7 @@ questions:
                 label: MariaDB Host
                 schema:
                   type: string
-                  default: "mariadb.ix-mariadb.cluster.svc.local"
+                  default: "mariadb.ix-mariadb.svc.cluster.local"
                   required: true
               - variable: mariadbPort
                 label: MariaDB Port

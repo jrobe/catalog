@@ -1,6 +1,6 @@
 The WordPress rich content management system can utilize plugins, widgets, and themes.
 
-This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/wordpress](https://truecharts.org/charts/stable/wordpress)
+This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/development/wordpress](https://truecharts.org/charts/development/wordpress)
 
 ---
 

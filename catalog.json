@@ -2,8 +2,41 @@
     "charts": {},
     "test": {},
     "development": {
+        "photoprism": {
+            "app_readme": "<p>PhotoPrism\u00ae is a server-based application for browsing, organizing and sharing your personal photo collection</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/development/photoprism\">https://truecharts.org/charts/development/photoprism</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "PhotoPrism\u00ae is a server-based application for browsing, organizing and sharing your personal photo collection",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/photoprism",
+            "location": "/home/runner/work/catalog/catalog/development/photoprism",
+            "latest_version": "23.0.0",
+            "latest_app_version": "240420.0.0",
+            "latest_human_version": "240420.0.0_23.0.0",
+            "last_update": "2024-05-05 03:31:39",
+            "name": "photoprism",
+            "recommended": false,
+            "title": "Photoprism",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "john@jrobe.me",
+                    "url": "https://jrobe.me"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/photoprism/photoprism",
+                "https://github.com/jrobe/charts/tree/master/charts/development/photoprism",
+                "https://hub.docker.com/r/photoprism/photoprism"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/photoprism.webp"
+        },
         "wordpress": {
-            "app_readme": "<p>The WordPress rich content management system can utilize plugins, widgets, and themes.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/wordpress\">https://truecharts.org/charts/stable/wordpress</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "app_readme": "<p>The WordPress rich content management system can utilize plugins, widgets, and themes.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/development/wordpress\">https://truecharts.org/charts/development/wordpress</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
                 "website"
             ],
@@ -12,10 +45,10 @@
             "healthy_error": null,
             "home": "https://truecharts.org/charts/stable/wordpress",
             "location": "/home/runner/work/catalog/catalog/development/wordpress",
-            "latest_version": "8.0.4",
+            "latest_version": "8.0.8",
             "latest_app_version": "6.5.2",
-            "latest_human_version": "6.5.2_8.0.4",
-            "last_update": "2024-04-30 18:32:01",
+            "latest_human_version": "6.5.2_8.0.8",
+            "last_update": "2024-05-05 03:31:39",
             "name": "wordpress",
             "recommended": false,
             "title": "Wordpress",
@@ -30,7 +63,7 @@
             "screenshots": [],
             "sources": [
                 "https://www.wordpress.org",
-                "https://github.com/jrobe/charts/tree/master/charts/stable/wordpress",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/wordpress",
                 "https://hub.docker.com/r/bitnami/wordpress"
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.webp"
